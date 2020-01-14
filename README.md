@@ -16,4 +16,4 @@ python3 app.py
 ```
 
 
-link do git do curso  [Guthub](https://github.com/4linux/4525)
+link do git do curso  [Github](https://github.com/4linux/4525)
